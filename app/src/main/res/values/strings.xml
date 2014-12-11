@@ -4,5 +4,6 @@
     <string name="app_name">Proguard Tutorial</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="cause_crash">Cause Crash</string>
 
 </resources>
